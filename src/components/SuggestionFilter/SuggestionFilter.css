@@ -1,0 +1,17 @@
+.search-label{
+    padding-left: 20px;
+    background: rgb(89, 89, 89);
+    color: #fff;
+    min-width: 350px
+}
+a{
+    text-decoration: none;
+}
+a:hover .MuiCard-root, .link-item:hover{
+    background: #cfcfcf;
+}
+.link-item, .no-result{
+    display: block;
+    padding: 8px;
+    min-width: 350px;
+}
